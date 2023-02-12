@@ -1,0 +1,134 @@
+*{
+   box-sizing: border-box; 
+}
+
+body{
+    margin: 0;
+    background-color: whitesmoke; 
+}
+.We{
+   background-color: rgb(233, 233, 32) ; 
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: rgba(0, 0, 0, 0.596);
+}
+
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.685);
+}
+.search{
+    width: 500px;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+.dev{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.one{
+  display: flex; 
+} 
+.did{
+  position: absolute;
+  margin-left: 30px;
+  background-color: white;
+  margin-top: 20px;
+}
+.you{
+    margin: 30px;
+
+}
+.kenny{
+  width: 100vw;  
+  height: 60vh;
+ position: relative;
+}
+.Let{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'poppins';
+    font-size: larger;
+}
+.schedule{
+    display: flex;
+    border: 4px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 180px;
+    margin-left: 20px;  
+    padding-left: 20px;
+}
+.circle{
+    width: 70px;
+    height: 90px;
+    margin-top: 30px;
+}
+.time{
+    margin: 20px;
+}
+.training{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.get{
+    width: 10rem;
+    height: 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.87);
+}
+.grip{
+    width: 5rem;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.teach{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    margin-top: 20px;
+    
+}
+.the{
+     display: flex; 
+    justify-content: space-between;
+}
+.grip-2{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.list{
+    display: flex;
+    gap: 30px;
+}
+.or{
+    text-decoration: none;
+    color: blueviolet;
+}
+.button{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+.button{
+    margin-left: 45rem;
+    margin-top: 17px;
+}
